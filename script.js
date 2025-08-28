@@ -7,7 +7,7 @@ const cakes = [
         detailedDescription: "Indulge in our signature chocolate cake featuring layers of moist chocolate sponge, rich chocolate ganache, and topped with premium chocolate chips. Perfect for chocolate lovers!",
         ingredients: ["Premium cocoa powder", "Dark chocolate chips", "Fresh eggs", "Butter", "Sugar", "Flour", "Vanilla extract", "Heavy cream"],
         price: "₹1,999",
-        image: "img/1.jpg"
+        image: "https://github.com/Satbali/red-velvet-bakery/blob/main/img/1.jpg"
     },
     {
         id: 2,
